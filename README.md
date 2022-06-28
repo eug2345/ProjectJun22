@@ -7,5 +7,5 @@ Record show that 80% of hospitalisation on elderly are fall related injury. And 
 
 We are planning to incorporate additional feature at later stage. For example: Membership where the customer will be able to subscribe and pay annual fees and benefit from the 24/7 monitoring service provided by the company.
 
-https://1drv.ms/x/s!Amjamemhq_ykoj5c8DApM0M_h251?e=RXz0nW
+https://1drv.ms/x/s!Amjamemhq_ykoj5c8DApM0M_h251?
 
